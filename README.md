@@ -1,3 +1,3 @@
-# Avionica e espacionica
+# Avionica e Espaciónica
 
 # Avionics and Spacionics
